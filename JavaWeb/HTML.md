@@ -74,7 +74,7 @@ HTML (HyperTextMarkupLanguage): 超文本标记语言。
 
 - 标签：
 
-  ![](D:\消息记录\TyporaPages\表格标签.png)
+  ![表格标签](../img/表格标签.png)
 
 ### 表单标签
 
@@ -88,13 +88,13 @@ HTML (HyperTextMarkupLanguage): 超文本标记语言。
 
   `<input>`: 定义表单项，通过type属性控制输入形式。
 
-  ![](D:\消息记录\TyporaPages\表单项.png)
+  ![表单项](../img/表单项.png)
 
   `<select>`: 定义下拉列表。
 
   `<textarea>`: 定义文本域。
 
-  ![](D:\消息记录\TyporaPages\表单项1.png)
+  ![表单项1](../img/表单项1.png)
 
 - 属性：
   `<action>`: 当提交表单时向何处发送表单数据，表单数据提交的URL地址。
@@ -226,7 +226,7 @@ CSS (Cascading Style Sheet): 层叠样式表，用于控制页面的样式(表�
 
 ### 颜色表示方式
 
-![](D:\消息记录\TyporaPages\颜色表示方式.png)
+![颜色表示方式](../img/颜色表示方式.png)
 
 例子：
 
@@ -274,15 +274,15 @@ h1 {
 
 - 元素选择器
 
-  ![](D:\消息记录\TyporaPages\元素选择器.png)
+  ![元素选择器](../img/元素选择器.png)
 
 - id 选择器
 
-  ![](D:\消息记录\TyporaPages\id选择器.png)
+  ![id选择器](../img/id选择器.png)
 
 - 类选择器
 
-  ![](D:\消息记录\TyporaPages\类选择器.png)
+  ![类选择器](../img/类选择器.png)
 
 ### CSS 属性
 
@@ -343,7 +343,7 @@ h1 {
 
 - 盒子模型组成 : 内容区域(content)，内边距区域(padding)，边框区域(border)，外边距区域(margin)。
 
-  ![](D:\消息记录\TyporaPages\盒子模型-1726902145162-6.png)
+  ![盒子模型](../img/盒子模型.png)
 
 - 标签 : `<div> <span>`
 

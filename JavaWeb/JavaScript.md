@@ -348,5 +348,5 @@ document.getElementById('btn').onclick=function(){
 
 ## 2. 常见事件
 
- ![](D:\消息记录\TyporaPages\常见事件-1727597694806-2.png)
+![常见事件](../img/常见事件.png)
 

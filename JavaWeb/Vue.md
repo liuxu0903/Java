@@ -8,7 +8,7 @@
 
   MVVM结构：
 
-![](D:\消息记录\TyporaPages\MVVM结构.png)
+![MVVM结构](../img/MVVM结构.png)
 
 ## 1. Vue 快速入门
 
@@ -55,7 +55,7 @@
 
 - 常用指令：
 
-  ![](D:\消息记录\TyporaPages\常用指令.png)
+  ![常用指令](../img/常用指令.png)
 
   - v-bind: `<a v-bind:href="url">传智教育</a>`或 `<a :href="url">传智教育</a>`
 
@@ -112,9 +112,9 @@
 
 - 生命周期的八个阶段: 每触发一个生命周期事件，会自动执行一个生命周期方法(钩子)。
 
-  ![](D:\消息记录\TyporaPages\vue生命周期.png)
+  ![vue生命周期](../img/vue生命周期.png)
 
-  ![](D:\消息记录\TyporaPages\vue生命周期1.png)
+  ![vue生命周期1](../img/vue生命周期1.png)
 
   - mounted: 挂载完成，Vue 初始化成功，HTML 页面渲染成功。(发送请求到服务端，加载数据)
 
